@@ -12,12 +12,15 @@ Combine technical knowledge with creative design for engaging user experiences.
 Mastering JavaScript, databases, and full-stack development.<br>
 Building projects that showcase both functionality and design.
 
-### 🛠️ Tech Stack  
-![HTML](https://img.shields.io/badge/Code-HTML-orange?style=flat-square&logo=html5)  
-![CSS](https://img.shields.io/badge/Code-CSS-blue?style=flat-square&logo=css3)  
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript)  
-![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python)  
-![Git](https://img.shields.io/badge/Tool-Git-red?style=flat-square&logo=git)  
-![GitHub](https://img.shields.io/badge/Tool-GitHub-black?style=flat-square&logo=github)  
+<h3> 🛠️ Tech Stack </h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</p>
+
 
 
