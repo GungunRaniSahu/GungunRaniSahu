@@ -2,8 +2,11 @@
  
 I'm [*Gungun Rani*](https://her-portfolio.vercel.app/), an Aspiring Full-Stack Developer and Competitive Programmer.
 
+💻 What I Do:
 
-💻 Passionate about crafting intuitive digital experiences and solving challenging problems.
+Craft intuitive, efficient, and scalable applications.
+Solve challenging problems through data structures and algorithms.
+Combine technical knowledge with creative design for engaging user experiences.
  
 I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
 
