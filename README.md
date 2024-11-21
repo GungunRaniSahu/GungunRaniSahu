@@ -7,6 +7,12 @@ I'm [*Gungun Rani*](https://her-portfolio.vercel.app/), an Aspiring Full-Stack D
 Craft intuitive, efficient, and scalable applications.
 Solve challenging problems through data structures and algorithms.
 Combine technical knowledge with creative design for engaging user experiences.
+
+
+🎯 Current Focus:
+
+Mastering JavaScript, databases, and full-stack development.
+Building projects that showcase both functionality and design.
  
 I like combining my technical knowledge with design to make beautiful and efficient applications. My goal is to build scalable and efficient software while providing engaging and flawless user experiences.
 
