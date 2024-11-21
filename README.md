@@ -22,5 +22,7 @@ Building projects that showcase both functionality and design.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
+- **Additional Skills:** C, C++ (for competitive programming and problem-solving)
+
 
 
