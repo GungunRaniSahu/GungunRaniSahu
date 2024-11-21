@@ -12,3 +12,12 @@ Combine technical knowledge with creative design for engaging user experiences.
 Mastering JavaScript, databases, and full-stack development.<br>
 Building projects that showcase both functionality and design.
 
+### 🛠️ Tech Stack  
+![HTML](https://img.shields.io/badge/Code-HTML-orange?style=flat-square&logo=html5)  
+![CSS](https://img.shields.io/badge/Code-CSS-blue?style=flat-square&logo=css3)  
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript)  
+![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python)  
+![Git](https://img.shields.io/badge/Tool-Git-red?style=flat-square&logo=git)  
+![GitHub](https://img.shields.io/badge/Tool-GitHub-black?style=flat-square&logo=github)  
+
+
