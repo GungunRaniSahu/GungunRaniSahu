@@ -4,7 +4,7 @@ I'm [*Gungun Rani*](https://her-portfolio.vercel.app/), an Aspiring Full-Stack D
 
 💻 What I Do:
 
-Craft intuitive, efficient, and scalable applications.
+Craft intuitive, efficient, and scalable applications.<br>
 Solve challenging problems through data structures and algorithms.
 Combine technical knowledge with creative design for engaging user experiences.
 
