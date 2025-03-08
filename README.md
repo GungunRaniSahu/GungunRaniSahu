@@ -4,7 +4,7 @@ I'm Gungun Rani, an Aspiring Full-Stack Developer and Competitive Programmer.
 💻 What I Do:<br>
 ✅ Craft intuitive, efficient, and scalable applications. <br>
 ✅ Solve challenging problems through data structures & algorithms. <br>
-✅ Combine technical knowledge with creative design for engaging experiences.
+✅ Combine technical knowledge with creative design for engaging experiences. <br>
 
 🎯 Current Focus: <br>
 🚀 Mastering JavaScript, databases, and full-stack development. <br>
