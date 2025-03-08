@@ -2,7 +2,7 @@ Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/
 I'm Gungun Rani, an Aspiring Full-Stack Developer and Competitive Programmer.
 
 💻 What I Do:<br>
-✅ Craft intuitive, efficient, and scalable applications.
+✅ Craft intuitive, efficient, and scalable applications. <br>
 ✅ Solve challenging problems through data structures & algorithms.
 ✅ Combine technical knowledge with creative design for engaging experiences.
 
