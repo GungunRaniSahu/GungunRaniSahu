@@ -25,6 +25,7 @@ I'm Gungun Rani, an Aspiring Full-Stack Developer and Competitive Programmer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/>
+  <img src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" alt="Node.js" width="100%" height="100%">
 </p>
 
 Additional Skills: C, C++ (for competitive programming and problem-solving)
