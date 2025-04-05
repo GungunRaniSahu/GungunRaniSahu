@@ -11,6 +11,8 @@ I'm Gungun Rani, an Aspiring Full-Stack Developer and Competitive Programmer.
 🛠️ Working with MySQL & MongoDB for database-driven applications. <br>
 🔥 Exploring Firebase for authentication & real-time data handling.
 
+![Profile Views](https://komarev.com/ghpvc/?username=GungunRaniSahu&label=Profile%20views&color=0e75b6&style=flat)
+
 🛠️ Tech Stack
 <p> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
