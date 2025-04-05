@@ -14,9 +14,7 @@ I'm Gungun Rani, an Aspiring Full-Stack Developer and Competitive Programmer.
 ![Profile Views](https://komarev.com/ghpvc/?username=GungunRaniSahu&label=Profile%20views&color=0e75b6&style=flat)
 
 🛠️ Tech Stack
-<p> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,mysql,mongodb,firebase,git,github,githubactions,express,nodejs" alt="Tech Stack" width="600"/>
-  🛠️ Tech Stack
+<p>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
