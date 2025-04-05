@@ -28,6 +28,8 @@ I'm Gungun Rani, an Aspiring Full-Stack Developer and Competitive Programmer.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,mysql,mongodb,firebase,git,github,githubactions,express,nodejs" alt="Tech Stack" width="600"/>
+
     
 </p>
 
