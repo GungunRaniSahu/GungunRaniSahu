@@ -33,9 +33,11 @@ I'm Gungun Rani, an Aspiring Full-Stack Developer and Competitive Programmer.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon_DB-00B1FF?style=for-the-badge&logo=neon&logoColor=white)
 
-
-    
 </p>
+
 
 Additional Skills: C, C++ (for competitive programming and problem-solving)
